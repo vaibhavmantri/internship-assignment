@@ -177,5 +177,18 @@ i {
   border: 1px solid #E8E8E8;
 }
 .fab{
-  background-color: white
+  background-color:none;
+  padding: 0;
+}
+footer{
+  background-color: #dc3545;;
+  color: white;
+  border-radius: 20px 20px 0 0;
+}
+.btn-rounded{
+  background-color: white;
+  color: black;
+}
+a{
+  color: white;
 }
